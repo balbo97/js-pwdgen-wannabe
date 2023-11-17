@@ -13,3 +13,7 @@ Tre push obbligatori:
 Suddividete il problema in sottoproblemi come vi ho fatto vedere per il live coding sul calcolo della data di nascita e messaggio di benvenuto mostrato in pagina
 Buon lavoro e buon weekend, a lunedì!
 
+1-Permettere all'utente di inserire il suo nome;
+2-Permettere all'utente di inserire il suo cognome;
+3-Permettere all'utente di inserire il suo colore preferito;
+4-Mostrare nomecognomecolrepreferito23 sulla pagina html;
